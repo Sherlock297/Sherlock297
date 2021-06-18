@@ -2,7 +2,7 @@
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning Something
 - 💞️ I’m looking to collaborate on Anything
-- 📫 How to reach me [Instagram](https://www.instagram.com/Infosec97/) | [YouTube](https://www.youtube.com/channel/UCnLae11ebPlaMEKThWEtXzg) | [Twitter](https://twitter.com/Ravindra231997) | [Facebook](https://www.facebook.com/sherlock297)
+- 📫 How to reach me [Instagram](https://www.instagram.com/Infosec97/) | [YouTube](https://www.youtube.com/c/RavindraDagale) | [Twitter](https://twitter.com/Ravindra231997) | [Facebook](https://www.facebook.com/sherlock297)
 
 <!---
 Sherlock297/Sherlock297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
